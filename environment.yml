@@ -1,0 +1,4 @@
+name: data-analysis-template
+dependencies:
+- python=3.7
+- pandas
